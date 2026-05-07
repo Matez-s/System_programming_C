@@ -1,3 +1,3 @@
-# udsp
+# system programing
 
-abeceda
+Curse dedicated to programing in C and undestanding basic C concepts. Primary focused on threads and sockets.  
